@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>bad boy</title>
+  <subtitle>我是谁？我来自哪里？我又要前往何方？？</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://neijiangren.tk/"/>
+  <updated>2016-09-24T16:46:25.004Z</updated>
+  <id>http://neijiangren.tk/</id>
+  
+  <author>
+    <name>bad boy</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇博文</title>
+    <link href="http://neijiangren.tk/2016/09/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/"/>
+    <id>http://neijiangren.tk/2016/09/24/第一篇博文/</id>
+    <published>2016-09-23T16:00:00.000Z</published>
+    <updated>2016-09-24T16:46:25.004Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天花了将近12小时来学习制作博客，眼睛好痛，头都快炸了，不过黄天不负有心人，我终于学会了，明天还要进行c语言二级考试，希望考神保佑。<br>睡觉了。<br>晚安，世界。</p>
+<pre><code>市优干
+</code></pre><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天花了将近12小时来学习制作博客，眼睛好痛，头都快炸了，不过黄天不负有心人，我终于学会了，明天还要进行c语言二级考试，希望考神保佑。&lt;br&gt;睡觉了。&lt;br&gt;晚安，世界。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;市优干
+&lt;/code&gt;&lt;/pre&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://neijiangren.tk/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="高兴" scheme="http://neijiangren.tk/tags/%E9%AB%98%E5%85%B4/"/>
+    
+  </entry>
+  
+</feed>
