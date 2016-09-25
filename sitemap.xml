@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://neijiangren.tk/categories/index.html</loc>
+    
+    <lastmod>2016-09-25T12:48:35.285Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://neijiangren.tk/tags/index.html</loc>
+    
+    <lastmod>2016-09-25T12:37:59.250Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://neijiangren.tk/about/index.html</loc>
     
     <lastmod>2016-09-25T10:43:55.297Z</lastmod>
@@ -19,20 +33,6 @@
     <loc>http://neijiangren.tk/liuyan/index.html</loc>
     
     <lastmod>2016-09-25T10:43:13.225Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://neijiangren.tk/categories/index.html</loc>
-    
-    <lastmod>2016-09-25T10:43:04.465Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://neijiangren.tk/tags/index.html</loc>
-    
-    <lastmod>2016-09-25T06:23:55.662Z</lastmod>
     
   </url>
   
